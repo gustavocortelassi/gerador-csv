@@ -17,5 +17,4 @@ def processar_nomes(arquivo_entrada, arquivo_saida):
     
     print(f"Arquivo '{arquivo_saida}' gerado com sucesso!")
 
-# Exemplo de uso
 processar_nomes('nomes.txt', 'saida.csv')
